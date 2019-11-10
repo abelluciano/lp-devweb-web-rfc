@@ -45,7 +45,6 @@
               </div>
             </form>
             <div class="col-lg-10 mx-auto" id="result">
-
             </div>
           </div>
         </div>
@@ -53,7 +52,6 @@
     </div>
 
     <footer class="container" style="padding-bottom:10em;">
-      <p class="float-right"><a href="#">Back to top</a></p>
       <p>This site was designed and developed by Lucien Abel</p>
     </footer>
   </section>
